@@ -130,10 +130,10 @@ class Plants:
 	    print(“************ WELCOME TO PLANT STORE ************")
 	
 
-	    ps = PlantStore("GRAPE", "FRUIT", "CLIMBER", 100)
-	    ps = PlantStore("LILAC", "FLOWER", "SHRUB", 200)
-	    ps = PlantStore("WATERMELON", "FRUIT", "CREEPER", 300)
-	    ps = PlantStore("SPINACH", "VEGETABLE", "HEBERS", 50)
+	    ps = PlantStore("GRAPE", "FRUIT", "CLIMBER", 129)
+	    ps = PlantStore("LILAC", "FLOWER", "SHRUB", 289)
+	    ps = PlantStore("WATERMELON", "FRUIT", "CREEPER", 99)
+	    ps = PlantStore("SPINACH", "VEGETABLE", "HEBERS", 89)
 	    
 	    ps.show()
 	
