@@ -23,7 +23,7 @@ class Plants:
 	    def show(self):
 	        print("******************* AVAILBALE PLANTS *******************”)
 	        
-	        pos=0
+	        pos=1
 	
 
 	        for plant in self.plants:
@@ -59,7 +59,7 @@ class Plants:
 	
 
 	    def selectedPlants(self):
-	        return self.selectedPlant
+	        retur+n self.selectedPlant
 	
 
 	
@@ -72,7 +72,7 @@ class Plants:
 	        self.plants = myPlants
 	    
 	    def display(self):
-	        pos = 0
+	        pos = 1
 	        for plant in self.plants:
 	            print("*********** BILL COUNTER PLANTS************”)
 	            pos += 1
