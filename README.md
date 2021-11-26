@@ -130,10 +130,10 @@ class Plants:
 	    print(“************ WELCOME TO PLANT STORE ************")
 	
 
-	    ps = PlantStore("JAVA", "ABC", "ABC123", 299)
-	    ps = PlantStore("C++", "XYZ", "XYZ123", 499)
-	    ps = PlantStore("C#", "ABC", "ABC567", 399)
-	    ps = PlantStore("PYTHON", "XYZ", "XYZ567", 699)
+	    ps = PlantStore("GRAPE", "FRUIT", "CLIMBER", 100)
+	    ps = PlantStore("LILAC", "FLOWER", "SHRUB", 200)
+	    ps = PlantStore("WATERMELON", "FRUIT", "CREEPER", 300)
+	    ps = PlantStore("SPINACH", "VEGETABLE", "HEBERS", 50)
 	    
 	    ps.show()
 	
